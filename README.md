@@ -1,3 +1,3 @@
-# Ejercicios de "PROGRAMACION DE ALGORITMOS"
-Ejercicios hechos para la asignatura PROGRAMACION DE ALGORITMOS.
+# Ejercicios Duoc
+Ejercicios y evaluaciones de programación del Duoc UC.
 
